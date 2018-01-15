@@ -1,0 +1,2 @@
+# QKeyboardManagerSwift-formSheet-issue-minimal-sample
+Project demo issue with QKeyboardManagerSwift and MZFormSheetPresentationController
